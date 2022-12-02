@@ -1,0 +1,11 @@
+#table_1  {
+    border: 1px solid red;
+}
+#table_1 th {
+    border: 1px solid blue;
+    padding: 5px;
+}
+#table_1 td {
+    border: 1px dashed green;
+    padding: 5px;
+}
