@@ -1,11 +1,21 @@
-#table_1  {
+table {
     border: 1px solid red;
 }
-#table_1 th {
+
+table th {
     border: 1px solid blue;
     padding: 5px;
 }
-#table_1 td {
+
+table td {
     border: 1px dashed green;
     padding: 5px;
+}
+
+.container {
+    margin: auto;
+}
+
+.center {
+    text-align: center
 }
